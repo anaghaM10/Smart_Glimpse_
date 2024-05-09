@@ -1,0 +1,8 @@
+{
+	"name": "magicmirror-fonts",
+	"description": "Package for fonts use by Smart Glimpse Core.",
+	"dependencies": {
+		"@fontsource/roboto": "^5.0.8",
+		"@fontsource/roboto-condensed": "^5.0.14"
+	}
+}
